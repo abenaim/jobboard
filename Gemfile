@@ -23,6 +23,8 @@ end
 gem 'httparty'
 gem 'jquery-rails'
 gem 'bootstrap-sass'
+gem 'bootstrap-will_paginate'
+gem 'will_paginate', '~> 3.0.0'
 
 
 
